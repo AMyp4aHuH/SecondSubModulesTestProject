@@ -9,6 +9,8 @@ namespace SecondClassLibrary
         public string GetSecondName() => typeof(Class2).Name;
 
         public string GetThirdName() => typeof(Class2).Name;
-        //1
+        
+        // Changes from Main project.
+        //
     }
 }
